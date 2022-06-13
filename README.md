@@ -1,4 +1,4 @@
-﻿#RunBuddy1
+﻿#Run Buddy Inc.
 
 
 ## Purpose
